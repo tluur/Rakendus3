@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.Meist">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="CadetBlue" Padding="24" CornerRadius="0">
+                <Label Text="Grupp 4 Meeskond" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Label Text="Arendusega tegelevad :" FontSize="Title" Padding="30,10,30,10"/>
+            
+            <Label Text=" * Taavi Luur" FontSize="16" Padding="30,0,30,0"/>
+            <Label Text=" * Jaanus Lille" FontSize="16" Padding="30,0,30,0"/>
+            <Label Text=" * Henri Mägi" FontSize="16" Padding="30,0,30,0"/>
+            <Label Text=" * Hans Robert Noor" FontSize="16" Padding="30,0,30,0"/>
+            <Label Text=" * Andreas Kuuskaru" FontSize="16" Padding="30,0,30,0"/>
+            <Label FontSize="16" Padding="30,24,30,0">
+                
+             
+                
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

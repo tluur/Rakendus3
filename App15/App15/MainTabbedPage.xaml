@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+    <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App15.MainTabbedPage"
+            xmlns:tabbbott="clr-namespace:App15"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            android:TabbedPage.BarItemColor="Black"
+            android:TabbedPage.BarSelectedItemColor="Red"
+            android:TabbedPage.BarBackgroundColor="White"
+            android:TabbedPage.IsSmoothScrollEnabled="True">
+  <!--Pages can be added as references or inline-->
+    <tabbbott:Meist Title="Meist"  Icon="home.png"></tabbbott:Meist>
+    <tabbbott:Aine Title="Aine" Icon="subject.png"></tabbbott:Aine>
+    <tabbbott:Rakendus  Title="Rakendus"  Icon="code.png"></tabbbott:Rakendus>
+
+</TabbedPage>
+
