@@ -42,7 +42,7 @@ namespace App15
         void SetBackground(double level, bool charging)
         {
             Color? color = null;
-            var status = charging ? "Laeb" : "Ei Lae";
+            var status = charging ? "Laeb akut" : "Ei lae akut";
 
             if(level > .5f)
             {

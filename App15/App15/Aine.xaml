@@ -5,11 +5,12 @@
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="Red" Padding="24" CornerRadius="0">
-                <Label Text="Task 3" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                <Label Text="Task 4" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
             </Frame>
             <Label Text="" FontSize="Title" Padding="30,10,30,10"/>
             <Label Text="Looge mitmeleheline lahendus." FontSize="16" Padding="30,0,30,0"/>
             <Label Text="Ja disainige esialgne kasutajaliides oma rakendusele ja rakendage see." FontSize="16" Padding="30,0,30,0"/>
+            <Label Text="Mikrofoni, kaamera, andurite kasutamine. Väljundseadmete kasutamine. Püüdke ligi saada ühele või enamale anduritest ja kuvage see eraldi lehel. " FontSize="16" Padding="30,0,30,0"/>
             <Label FontSize="16" Padding="30,24,30,0">
                
             </Label>
