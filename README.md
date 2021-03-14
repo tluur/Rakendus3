@@ -6,4 +6,4 @@ Assignment 3 : Jaanus Lille Taavi Luur Henri Mägi Hans Robert Noor Andreas Kuus
 
 ![](img/1.2.png)
 
-![](img/1.3.png)
+![](img/2.3.png)
