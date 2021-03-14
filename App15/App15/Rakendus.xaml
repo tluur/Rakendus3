@@ -1,12 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="App15.Rakendus">
+             x:Class="App15.Rakendus"
+             Title="Battery Info">
     <ContentPage.Content>
         
         <StackLayout>
-            <Frame BackgroundColor="#ff9300" Padding="24" CornerRadius="0">
-                <Label Text="See Rakendus Töötab " HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Frame BackgroundColor="#ff9300" >
+                <Label x:Name="LabelBatteryLevel" 
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="CenterAndExpand"
+                       HorizontalTextAlignment="Center" 
+                       TextColor="White" 
+                       FontSize="36"/>
             </Frame>
             <Label Text="" FontSize="Title" Padding="30,10,30,10"/>
            
