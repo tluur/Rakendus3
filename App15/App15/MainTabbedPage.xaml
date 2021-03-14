@@ -13,7 +13,7 @@
   
     <tabbbott:Meist Title="Meist"  Icon="home.png"></tabbbott:Meist>
     <tabbbott:Aine Title="Aine" Icon="subject.png"></tabbbott:Aine>
-    <tabbbott:Rakendus  Title="Aku Laadimine"  Icon="code.png"></tabbbott:Rakendus>
+    <tabbbott:Rakendus  Title="Aku Laadimine !"  Icon="code.png"></tabbbott:Rakendus>
 
 </TabbedPage>
 
